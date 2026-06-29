@@ -26,7 +26,7 @@ docker-compose logs postgres
 | Service | Host | Port | User | Password |
 |---------|------|------|------|----------|
 | PostgreSQL | localhost | 5432 | labuser | labpass |
-| pgAdmin | localhost:5050 | 5050 | admin@lab.local | admin |
+| pgAdmin | localhost:5050 | 5050 | admin@example.com | admin |
 
 ## Lab Exercises & Results
 
