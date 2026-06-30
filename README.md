@@ -3,7 +3,6 @@
 A hands-on lab environment for DevOps engineers to learn PostgreSQL performance monitoring, tuning, and benchmarking.
 
 ---
-
 ## Table of Contents
 
 1. [What is this lab?](#what-is-this-lab)
