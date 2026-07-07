@@ -1,7 +1,6 @@
 # PostgreSQL Performance Lab
 
 A hands-on lab environment for DevOps engineers to learn PostgreSQL performance monitoring, tuning, and benchmarking.
-
 ---
 ## Table of Contents
 
