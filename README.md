@@ -68,7 +68,6 @@ You'll learn to monitor these key metrics:
 - Query performance
 
 ---
-
 ## Quick Start
 
 ### Prerequisites
