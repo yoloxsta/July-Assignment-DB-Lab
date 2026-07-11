@@ -66,7 +66,6 @@ You'll learn to monitor these key metrics:
 - Index usage (unused indexes waste space)
 - Connection count
 - Query performance
-
 ---
 ## Quick Start
 
