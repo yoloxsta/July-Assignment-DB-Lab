@@ -45,7 +45,6 @@ User Request → Application → Database → Response
                               ↓
                          90% of slowness happens here
 ```
-
 Most application performance issues come from the database. Knowing how to diagnose and fix them is essential.
 
 ### 2. Real-World DevOps Scenarios
