@@ -39,7 +39,6 @@ This is a hands-on learning environment for **PostgreSQL database performance tu
 ## Why do you need this as a DevOps Engineer?
 
 ### 1. Database Performance = Application Performance
-
 ```
 User Request → Application → Database → Response
                               ↓
