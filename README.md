@@ -103,7 +103,6 @@ docker-compose logs postgres
    - Password: `labpass`
 
 ---
-
 ## Lab Exercises Explained
 
 ### Exercise 1: EXPLAIN - Query Analysis
