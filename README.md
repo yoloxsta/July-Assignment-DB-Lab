@@ -65,7 +65,6 @@ You'll learn to monitor these key metrics:
 - Query performance
 ---
 ## Quick Start
-
 ### Prerequisites
 - Docker Desktop running
 - Ports 5432 and 5050 available
