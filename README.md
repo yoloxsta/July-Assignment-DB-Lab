@@ -115,7 +115,6 @@ docker-compose logs postgres
 Before optimizing, you need to understand the execution plan. You can't fix what you don't understand.
 
 #### How it works
-
 ```sql
 -- Connect to database
 docker exec -it pg-perf-lab psql -U labuser -d perflab
