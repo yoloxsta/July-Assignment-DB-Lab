@@ -19,7 +19,6 @@ A hands-on lab environment for DevOps engineers to learn PostgreSQL performance 
 6. [Key Takeaways](#key-takeaways)
 7. [Cleanup](#cleanup)
 8. [Additional Resources](#additional-resources)
-
 ---
 
 ## What is this lab?
